@@ -1,0 +1,1 @@
+This Python program, designed to run on a Raspberry Pi utilizes the python Requests, TwilioRest, and google location APIs to inform when a satellite pass will occur over a user input zip code. In addition, it requests weather data from the OpenWeather API based on the supplied location. In addition, the device outputs a tone 15 minutes prior to a Satellite pass.
